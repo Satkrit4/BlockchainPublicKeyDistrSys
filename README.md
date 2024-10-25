@@ -50,20 +50,20 @@ The project consists of:
 ## Screenshots
 
 1. **Welcome Page:**
-   ![Welcome to Key Management System](./images/Screenshot 2024-10-20 195508.png)
+   ![Welcome Page](https://github.com/user-attachments/assets/cbbc666e-2e91-473c-9c79-f79678d35d82)
+   
+3. **MetaMask Interaction:**
+   ![Metamaask Interaction](https://github.com/user-attachments/assets/f5a8aec4-490e-497c-b480-009384932c57)
 
-2. **MetaMask Interaction:**
-   ![MetaMask Interaction](./images/Screenshot 2024-10-20 195527.png)
+5. **Key Distribution:**
+   ![Key Distribution](https://github.com/user-attachments/assets/c6ed0d9d-1fac-4511-a2de-bbe98dc0e4ef)
 
-3. **Key Distribution:**
-   ![Key Distribution Interface](./images/Screenshot 2024-10-20 195547.png)
+6. **Ganache Test Environment:**
+   ![Ganache Environment](https://github.com/user-attachments/assets/471ba176-18e4-468b-9e6f-2072a54db76e)
 
-4. **Ganache Test Environment:**
-   ![Ganache Environment](./images/Screenshot 2024-10-26 001500.png)
-
-5. **Key Revocation:**
-   ![Key Revocation](./images/Screenshot 2024-10-26 001612.png)
-   ![Key Revocation](./images/Screenshot 2024-10-26 001710.png)
+7. **Key Revocation:**
+   ![Key Revocation](https://github.com/user-attachments/assets/b1a1fd47-fa7b-416a-9d91-683b46b1738a)
+   ![Key Revocation](https://github.com/user-attachments/assets/1ba360f4-aafc-4199-9928-ae585594e770)
 
 ## Usage
 
@@ -78,7 +78,7 @@ The project consists of:
 
 ## Conclusion
 
-This project demonstrates how blockchain technology can be utilized for secure key management. By using Ethereum smart contracts, we ensure decentralized, transparent, and tamper-proof key operations. The integration of React for the frontend makes the system accessible and user-friendly.
+This project demonstrates how blockchain technology can be utilized for secure Public key management. By using Ethereum smart contracts, we ensure decentralized, transparent, and tamper-proof key operations. The integration of React for the frontend makes the system accessible and user-friendly.
 
 ## References
 - [Ethereum Documentation](https://ethereum.org/en/developers/docs/)
